@@ -1,0 +1,11 @@
+body {
+    background-color: #eee;
+    max-width: 500px;
+    margin: auto;
+}
+
+.box-content {
+    padding: 25px 15px;
+    background-color: #fff;
+    border-radius: 5px;
+}
