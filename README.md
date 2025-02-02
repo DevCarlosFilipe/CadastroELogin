@@ -21,7 +21,7 @@ Este projeto foi desenvolvido para rodar no **XAMPP**. Para configurá-lo corret
 4. **Inicie o Apache e MySQL pelo painel do XAMPP**.
 5. **Crie o banco de dados**:
    - Acesse `http://localhost/phpmyadmin/`
-   - Crie um banco de dados chamado `meu_banco`
+   - Crie um banco de dados chamado `bd_teste` ou altere a variavel `$dbname` em `test\data\conn.php` para o nome do seu banco de dados
    - Importe o arquivo `database.sql` para configurar as tabelas.
 6. **Acesse o projeto** via navegador:
    - `http://localhost/test/`
